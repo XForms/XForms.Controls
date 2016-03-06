@@ -1,4 +1,4 @@
-﻿using Windows.UI;
+using Windows.UI;
 using Windows.UI.Xaml.Media;
 
 namespace XForms.Controls.UWP.Helpers
@@ -13,10 +13,10 @@ namespace XForms.Controls.UWP.Helpers
 		public static Color FormsColorToNative(Xamarin.Forms.Color color)
 		{
 			return Color.FromArgb(
-				(byte)color.A,
-				(byte)color.R,
-				(byte)color.G,
-				(byte)color.B);
+				Convert.ToByte(color.A * 255),
+				Convert.ToByte(color.R * 255),
+				Convert.ToByte(color.G * 255),
+				Convert.ToByte(color.B * 255));
 		}
 	}
 }
