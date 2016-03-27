@@ -9,6 +9,7 @@ Custom controls for Xamarin Forms
 | ListPicker      | +   | +       | +        | +   |
 | NumberEntry     | +   | +       | -/+      | -/+ |
 | CheckBox        | +   | +       | -        | +   |
+| LargeImage      | -   | +       | -        | -   |
 
 > `-/+` - for mobile
 
