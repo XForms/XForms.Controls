@@ -11,8 +11,8 @@
     <AssemblyName>XForms.Controls.Samples.UWP</AssemblyName>
     <DefaultLanguage>en-US</DefaultLanguage>
     <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
-    <TargetPlatformVersion>10.0.10240.0</TargetPlatformVersion>
-    <TargetPlatformMinVersion>10.0.10240.0</TargetPlatformMinVersion>
+    <TargetPlatformVersion>10.0.15063.0</TargetPlatformVersion>
+    <TargetPlatformMinVersion>10.0.15063.0</TargetPlatformMinVersion>
     <MinimumVisualStudioVersion>14</MinimumVisualStudioVersion>
     <EnableDotNetNativeCompatibleProfile>true</EnableDotNetNativeCompatibleProfile>
     <FileAlignment>512</FileAlignment>
@@ -133,6 +133,7 @@
       <Name>XForms.Controls.UWP</Name>
     </ProjectReference>
     <ProjectReference Include="..\XForms.Controls.Samples\XForms.Controls.Samples.csproj">
+      <Project>{1c04e182-058a-487c-9ec5-3300ce4285aa}</Project>
       <Name>XForms.Controls.Samples</Name>
     </ProjectReference>
   </ItemGroup>
