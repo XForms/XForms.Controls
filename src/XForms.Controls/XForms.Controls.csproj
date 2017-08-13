@@ -38,6 +38,7 @@
   <ItemGroup>
     <Compile Include="CheckBox.cs" />
     <Compile Include="CommandListView.cs" />
+    <Compile Include="ImageEntry.cs" />
     <Compile Include="LargeImage.cs" />
     <Compile Include="ListPicker.cs" />
     <Compile Include="NumberEntry.cs" />

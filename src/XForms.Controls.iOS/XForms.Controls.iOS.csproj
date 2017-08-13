@@ -59,6 +59,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CheckBoxRenderer.cs" />
+    <Compile Include="ImageEntryRenderer.cs" />
     <Compile Include="NumberEntryRenderer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Views\CheckBoxView.cs" />

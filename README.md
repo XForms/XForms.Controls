@@ -10,6 +10,7 @@ Custom controls for Xamarin Forms
 | NumberEntry     | +   | +       | -/+ |
 | CheckBox        | +   | +       | +   |
 | LargeImage      | -   | +       | -   |
+| ImageEntry      | +   | +       | -   |
 
 > `-/+` - for mobile
 
