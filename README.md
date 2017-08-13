@@ -3,13 +3,13 @@ Custom controls for Xamarin Forms
 
 #### Platform Support
 
-| Controls        | iOS | Android | W/WP 8.1 | UWP |
-|:---------------:|:---:|:-------:|:--------:|:---:|
-| CommandListView | +   | +       | +        | +   |
-| ListPicker      | +   | +       | +        | +   |
-| NumberEntry     | +   | +       | -/+      | -/+ |
-| CheckBox        | +   | +       | -        | +   |
-| LargeImage      | -   | +       | -        | -   |
+| Controls        | iOS | Android | UWP |
+|:---------------:|:---:|:-------:|:---:|
+| CommandListView | +   | +       | +   |
+| ListPicker      | +   | +       | +   |
+| NumberEntry     | +   | +       | -/+ |
+| CheckBox        | +   | +       | +   |
+| LargeImage      | -   | +       | -   |
 
 > `-/+` - for mobile
 
